@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/3f117a3c-eb01-4575-a4fd-45a325561fa2)
+
+
 My Python Flask App
 
 This project demonstrates how to create a simple Flask application, containerize it using Docker, push the image to Docker Hub using GitHub Actions, and run it locally.
